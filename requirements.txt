@@ -1,0 +1,4 @@
+feedparser
+pandas
+openai
+python-dotenv
